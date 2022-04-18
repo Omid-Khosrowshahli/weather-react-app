@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  background: url('../../images/forest-fog.jpg');
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
